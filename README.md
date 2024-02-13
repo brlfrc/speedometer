@@ -17,7 +17,8 @@ In the electronic scheme of the project, we have the following components:
 
 ## Mathematics
 The mathematics behind this project is straightforward:
-Speed (km/h) = (2π * Radius of the wheel(cm) * Number of rotations) / Time interval(s) * 0.036
+
+## Speed (km/h) = (2π * Radius of the wheel(cm) * Number of rotations) / Time interval(s) * 0.036
 
 ## Future Updates
 In the next update, we plan to design a casing for the electronics and a support to connect to the bicycle.
